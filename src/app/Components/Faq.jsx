@@ -24,7 +24,7 @@ export default function FAQ() {
   };
 
   return (
-    <section className="bg-[#EDE7E1] py-24">
+    <section className="bg-[#cce3de] py-24">
 
       <div className="max-w-7xl mx-auto px-16 grid md:grid-cols-2 gap-20 items-start">
 
@@ -38,16 +38,16 @@ export default function FAQ() {
         </div>
 
         {/* RIGHT FAQ */}
-        <div className="text-[#2F3E2E]">
+        <div className="text-[#1F2D2B]">
 
           <h2 className="text-4xl font-semibold py-12 mb-12">
             FAQs
           </h2>
 
-          <div className="border-t border-[#2F3E2E]">
+          <div className="border-t border-[#1F2D2B]">
 
             {faqs.map((item, i) => (
-              <div key={i} className="border-b border-[#2F3E2E]">
+              <div key={i} className="border-b border-[#254B4F]">
 
                 {/* QUESTION */}
                 <button

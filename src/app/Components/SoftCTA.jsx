@@ -12,7 +12,7 @@ export default function SoftCTA() {
       </div>
 
       {/* RIGHT CONTENT */}
-      <div className="bg-[#9FBBC9] flex flex-col w-full justify-between py-0 px-0 text-[#2F3E2E]">
+      <div className="bg-[#e0fbfc] flex flex-col w-full justify-between py-0 px-0 text-[#1F2D2B]">
 
         {/* TEXT BLOCK */}
         <div className="space-y-10 max-w-xl pl-16 py-6">
@@ -43,9 +43,9 @@ export default function SoftCTA() {
         {/* CTA BUTTON */}
         <div className="w-full mt-0">
 
-          <div className="border-t border-[#2F3E2E] w-full"></div>
+          <div className="border-t border-[#254B4F] w-full"></div>
 
-          <button className="w-full h-16 text-center tracking-wide hover:bg-[#2F3E2E] hover:text-white transition">
+          <button className="w-full h-16 text-center tracking-wide hover:bg-[#254B4F] hover:text-white transition">
             WORK WITH ME →
           </button>
 

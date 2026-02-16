@@ -1,6 +1,6 @@
 export default function Header() {
   return (
-    <header className="w-full bg-[#E1E9E8]">
+    <header className="w-full bg-[#cce3de]">
       <div className="max-w-7xl mx-auto flex items-center justify-between px-8 py-6">
 
         {/* LOGO */}

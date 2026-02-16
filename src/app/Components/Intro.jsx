@@ -1,10 +1,10 @@
 export default function Intro() {
   return (
-    <section className="bg-[#C7D3D1]">
+    <section className="bg-[#a4c3b2]">
       <div className="grid md:grid-cols-2 items-stretch min-h-[650px]">
 
         {/* LEFT SIDE */}
-        <div className="flex flex-col justify-between h-full w-full px-0 py-0 text-[#2F3E2E]">
+        <div className="flex flex-col justify-between h-full w-full px-0 py-0 text-[#1F2D2B]">
 
           {/* TEXT BLOCK */}
           <div className="space-y-8 px-16 py-32 max-w-xl">
@@ -28,9 +28,9 @@ export default function Intro() {
           {/* BUTTON BLOCK */}
           <div className="w-full">
 
-            <div className="border-t border-[#2F3E2E] w-full mb-0 "></div>
+            <div className="border-t border-[#254B4F] w-full mb-0 "></div>
 
-             <button className="w-full h-16 text-center text-sm tracking-wide tracking-wide hover:bg-[#2F3E2E] hover:text-white transition">
+             <button className="w-full h-16 text-center text-sm tracking-wide tracking-wide hover:bg-[#254B4F] hover:text-white transition">
               GET IN TOUCH →
             </button>
 

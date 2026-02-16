@@ -1,6 +1,6 @@
 export default function Banner() {
   return (
-    <section className="bg-[#7C7A45] text-white py-40">
+    <section className="bg-[#e9d8a6] text-[#1F2D2B] py-40">
 
       <div className="max-w-3xl mx-auto text-center px-6">
 
@@ -17,7 +17,7 @@ export default function Banner() {
         </p>
 
         {/* BUTTON */}
-        <button className="border border-white px-10 py-4 tracking-wide text-sm hover:bg-white hover:text-[#7C7A45] transition">
+        <button className="border border-[#254B4F] px-10 py-4 tracking-wide text-sm hover:bg-[#254B4F] hover:text-[#7C7A45] hover:text-white transition">
           GET IN TOUCH →
         </button>
 

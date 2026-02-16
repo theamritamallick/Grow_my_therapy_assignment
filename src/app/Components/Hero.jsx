@@ -1,6 +1,6 @@
 export default function Hero() {
   return (
-    <section className="bg-[#E1E9E8] min-h-screen flex items-center">
+    <section className="bg-[#cce3de] min-h-screen flex items-center">
 
       <div className="w-full grid md:grid-cols-2 gap-2 items-center text-center">
 
@@ -16,7 +16,7 @@ export default function Hero() {
         {/* TEXT BLOCK */}
        <div className="flex items-center justify-center py-32 px-8 md:px-0">
 
-  <div className="flex flex-col items-center text-center  py-32 text-[#2F3E2E]">
+  <div className="flex flex-col items-center text-center  py-32 text-[#1F2D2B]">
 
     <h1 className="text-[72px] leading-[1.05] font-semibold tracking-[-0.02em]">
       Live your life <br /> in full bloom
@@ -26,7 +26,7 @@ export default function Hero() {
       Therapy for Adults in Minneapolis, MN.
     </p>
 
-    <button className="mt-8 border border-[#2F3E2E] px-8 py-3 text-sm tracking-wide hover:bg-[#2F3E2E] hover:text-white transition">
+    <button className="mt-8 border border-[#254B4F] px-8 py-3 text-sm tracking-wide hover:bg-[#254B4F] hover:text-white transition">
       CONNECT WITH ME →
     </button>
 

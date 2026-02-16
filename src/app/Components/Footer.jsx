@@ -1,6 +1,6 @@
 export default function Footer() {
   return (
-    <div className="bg-[#EDE7E1] text-[#2F3E2E] border-t border-[#D8D2CC] px-6 py-12 text-center space-y-6">
+    <div className="bg-[#cce3de] text-[#1F2D2B] border-t border-[#D8D2CC] px-6 py-12 text-center space-y-6">
 
       {/* TOP LINKS */}
       <div className="flex flex-wrap justify-center gap-6 text-sm">

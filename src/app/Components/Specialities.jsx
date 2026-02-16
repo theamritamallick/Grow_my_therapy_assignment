@@ -18,10 +18,10 @@ export default function Specialities() {
   ];
 
   return (
-    <section className="bg-[#E1E9E8] py-28">
+    <section className="bg-[#cce3de] py-28">
 
       {/* TITLE */}
-      <h2 className="text-center text-5xl font-semibold text-[#2F3E2E] mb-20">
+      <h2 className="text-center text-5xl font-semibold text-[#1F2D2B] mb-20">
         My Specialties
       </h2>
 

@@ -1,11 +1,11 @@
 export default function AboutIntro() {
   return (
-    <section className="bg-[#EDE7E1] py-32 items-center">
+    <section className="bg-[#cce3de] py-32 items-center">
 
       <div className="max-w-7xl mx-auto px-16 grid md:grid-cols-2 items-center gap-20">
 
         {/* LEFT TEXT */}
-        <div className="space-y-10 text-[#2F3E2E] max-w-xl items-center">
+        <div className="space-y-10 text-[#1F2D2B] max-w-xl items-center">
 
           <h2 className="text-5xl font-semibold">
             Hi, I’m Lilac.
@@ -18,7 +18,7 @@ export default function AboutIntro() {
             the challenges life throws your way.
           </p>
 
-          <button className="mt-4 border border-[#2F3E2E] pl-8 px-8 py-3 text-sm tracking-wide hover:bg-[#2F3E2E] hover:text-white transition">
+          <button className="mt-4 border border-[#254B4F] pl-8 px-8 py-3 text-sm tracking-wide hover:bg-[#254B4F] hover:text-white transition">
             LET’S CHAT →
           </button>
 
@@ -46,7 +46,6 @@ export default function AboutIntro() {
               h-[220px]
               rounded-full
               object-cover
-              border-8 border-[#EDE7E1]
             "
           />
 

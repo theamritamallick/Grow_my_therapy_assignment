@@ -24,9 +24,9 @@ export default function Credentials() {
   };
 
   return (
-    <section className="bg-[#EDE7E1] py-32">
+    <section className="bg-[#cce3de] py-32">
 
-      <div className="max-w-3xl mx-auto px-6 text-[#2F3E2E]">
+      <div className="max-w-3xl mx-auto px-6 text-[#1F2D2B]">
 
         {/* TITLE */}
         <h2 className="text-4xl font-semibold text-center mb-16">
