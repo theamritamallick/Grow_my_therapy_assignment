@@ -12,7 +12,7 @@ export default function SoftCTA() {
       </div>
 
       {/* RIGHT CONTENT */}
-      <div className="bg-[#D9D6E3] flex flex-col w-full justify-between py-0 px-0 text-[#2F3E2E]">
+      <div className="bg-[#9FBBC9] flex flex-col w-full justify-between py-0 px-0 text-[#2F3E2E]">
 
         {/* TEXT BLOCK */}
         <div className="space-y-10 max-w-xl pl-16 py-6">

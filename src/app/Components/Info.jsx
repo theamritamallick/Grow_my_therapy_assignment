@@ -1,6 +1,6 @@
 export default function Info() {
   return (
-    <footer className="bg-[#EDE7E1] text-[#2F3E2E] px-10 py-24">
+    <footer className="bg-[#E1E9E8] text-[#2F3E2E] px-10 py-24">
 
       <div className="grid md:grid-cols-3 gap-16 max-w-7xl mx-auto">
 

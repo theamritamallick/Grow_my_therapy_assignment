@@ -18,7 +18,7 @@ export default function Specialities() {
   ];
 
   return (
-    <section className="bg-[#F4EFEA] py-28">
+    <section className="bg-[#E1E9E8] py-28">
 
       {/* TITLE */}
       <h2 className="text-center text-5xl font-semibold text-[#2F3E2E] mb-20">

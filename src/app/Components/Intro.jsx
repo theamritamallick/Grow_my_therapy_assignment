@@ -1,6 +1,6 @@
 export default function Intro() {
   return (
-    <section className="bg-[#EDE7E1]">
+    <section className="bg-[#C7D3D1]">
       <div className="grid md:grid-cols-2 items-stretch min-h-[650px]">
 
         {/* LEFT SIDE */}
