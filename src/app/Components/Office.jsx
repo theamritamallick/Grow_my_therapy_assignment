@@ -20,6 +20,10 @@ export default function Office() {
           appointments for clients located anywhere in California.
         </p>
 
+        <h2 className="text-4xl text-[#2F5D62] mb-10">
+          Address: 123th Street 45 W, Santa Monica, CA 90401
+        </h2>
+
         {/* IMAGE COMPOSITION */}
         <div className="relative flex justify-center">
 

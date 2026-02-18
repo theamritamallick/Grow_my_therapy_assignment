@@ -3,16 +3,16 @@ import { useState } from "react";
 
 const faqs = [
   {
-    q: "Do you take insurance?",
-    a: "I am currently an out-of-network provider, but I can provide superbills for reimbursement."
+    q: "Do you offer virtual sessions?",
+    a: "Yes. I provide secure telehealth sessions for clients located anywhere in California, in addition to in-person appointments."
   },
   {
-    q: "What are your rates?",
-    a: "Session fees vary depending on service type. Please contact me for current rates."
+    q: "What concerns do you specialize in?",
+    a: "I primarily work with anxiety, trauma, burnout, perfectionism, and chronic stress patterns."
   },
   {
-    q: "Do you have any openings?",
-    a: "Availability changes weekly. Reach out and I’ll share my current openings."
+    q: "What therapy approaches do you use?",
+    a: "My work integrates evidence-based approaches including CBT, EMDR, mindfulness practices, and body-oriented techniques." 
   }
 ];
 
@@ -31,7 +31,7 @@ export default function FAQ() {
         {/* LEFT IMAGE */}
         <div className="flex justify-center">
           <img
-            src="/images/faq.jpg"
+            src="/images/butterfly2.jpg"
             alt="flowers"
             className="rounded-[200px_200px_0_0] w-[420px] h-[600px] object-cover"
           />

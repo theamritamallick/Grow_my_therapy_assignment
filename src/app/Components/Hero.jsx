@@ -18,7 +18,7 @@ export default function Hero() {
 
   <div className="flex flex-col items-center text-center  py-20 text-[#1F2D2B]">
 
-    <h1 className="text-[72px] leading-[1.05] font-semibold tracking-[-0.02em] mb-8 ">
+    <h1 className="text-[64px] leading-[1.05] font-semibold tracking-[-0.02em] mb-8 ">
       Liberate from your cage <br /> like a butterfly.
     </h1>
     <p className="text-lg md:text-xl max-w-xl mx-auto md:mx-0 mb-2">

@@ -8,12 +8,12 @@ export default function Info() {
         <div className="space-y-8">
 
           <h2 className="text-4xl font-semibold">
-            Lilac Template
+            Dr. Maya Reynolds, PsychD
           </h2>
 
           <div className="space-y-2 text-lg">
-            <p>123 Example Road</p>
-            <p>Minneapolis, MN</p>
+            <p>Licensed Clinical Psychologist</p>
+            <p>Santa Monica</p>
           </div>
 
           <div className="space-y-2 text-lg">

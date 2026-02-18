@@ -6,19 +6,17 @@ export default function Banner() {
 
         {/* TITLE */}
         <h2 className="text-5xl font-semibold mb-10">
-          Get started today.
+         Begin your path toward steadiness and clarity
         </h2>
 
         {/* DESCRIPTION */}
         <p className="text-lg leading-relaxed mb-16">
-          Ready to take the first step towards a happier, healthier you?
-          Contact me to book your first session. I look forward to starting
-          this therapeutic journey with you.
+          Reach out to schedule a consultation and take the first step toward feeling more grounded, supported, and emotionally balanced.
         </p>
 
         {/* BUTTON */}
         <button className="border border-[#254B4F] px-10 py-4 tracking-wide text-sm hover:bg-[#254B4F] hover:text-[#7C7A45] hover:text-white transition">
-          GET IN TOUCH →
+          SCHEDULE CONSULTATION →
         </button>
 
       </div>
