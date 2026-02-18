@@ -4,6 +4,8 @@ import Intro from "./Components/Intro";
 import Specialities from "./Components/Specialities";
 import SoftCTA from "./Components/SoftCTA";
 import AboutIntro from "./Components/AboutIntro";
+import Office from "./Components/Office";
+
 import Faq from "./Components/Faq";
 
 import Credentials from "./Components/Credentials";
@@ -21,6 +23,7 @@ export default function Home() {
       <Specialities />
       <SoftCTA />
       <AboutIntro />
+      <Office />
       <Faq />
       <Credentials />
       <Banner />
