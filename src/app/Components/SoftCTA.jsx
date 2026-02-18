@@ -5,7 +5,7 @@ export default function SoftCTA() {
       {/* LEFT IMAGE */}
       <div className="h-[650px]">
         <img
-          src="/images/softCTA.jpg"
+          src="/images/happy-woman.jpg"
           alt="calm woman"
           className="w-full h-full object-cover"
         />
@@ -18,24 +18,22 @@ export default function SoftCTA() {
         <div className="space-y-10 max-w-xl pl-16 py-6">
 
           <h2 className="text-5xl font-semibold leading-tight">
-            You don’t have to do this all alone.
+            Navigate your life with renewed clarity.
           </h2>
 
           <p className="text-lg pl-6">
-            If you are facing any of these, there’s hope:
+            If you’ve been experiencing any of the following, therapy can help:
           </p>
 
           <ul className="space-y-4 list-disc pl-6 text-lg">
-            <li>Persistent feelings of sadness or hopelessness</li>
-            <li>Trouble focusing or making decisions</li>
-            <li>Difficulty maintaining relationships</li>
-            <li>Feeling constantly exhausted or unmotivated</li>
-            <li>A pervasive sense of being overwhelmed</li>
+            <li>Feeling disconnected from yourselfs</li>
+            <li>difficulty relaxing or sleeping</li>
+            <li>Burnout or exhaustion</li>
+            <li>Constant worry or overthinking</li>
           </ul>
 
           <p className="text-lg pl-6">
-            With empathy and guidance, we'll work together to navigate
-            the challenges life throws your way.
+           Together, we can work toward steadiness, clarity, and a stronger sense of balance.
           </p>
 
         </div>
