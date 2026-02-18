@@ -10,17 +10,17 @@ export default function Intro() {
           <div className="space-y-8 px-16 py-32 max-w-xl">
 
             <h2 className="text-5xl font-semibold">
-              Live a fulfilling life.
+             You don’t have to carry everything on your own.
             </h2>
 
             <p className="text-lg leading-relaxed">
-              Life can be challenging—especially when you're trying to balance
-              your personal and professional life.
+              Many high-achieving adults appear capable on the outside while quietly struggling with anxiety, constant pressure, or mental exhaustion.
             </p>
 
             <p className="text-lg leading-relaxed">
-              It's easy to feel like you're alone in facing these challenges,
-              but I want you to know that I'm here to help.
+              Therapy can offer a steady space to slow down, understand what
+              you’re experiencing, and begin building a more sustainable way of
+              living and working.
             </p>
 
           </div>
@@ -38,9 +38,9 @@ export default function Intro() {
         </div>
 
         {/* RIGHT IMAGE */}
-        <div className="h-[600px] md:h-auto">
+        <div className="h-[600px] md:h-auto max-h-[750px] w-full">
           <img
-            src="/images/intro.png"
+            src="/images/forest.jpg"
             alt="lifestyle"
             className="w-full h-full object-cover"
           />
