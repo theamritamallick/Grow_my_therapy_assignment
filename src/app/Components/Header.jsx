@@ -4,8 +4,8 @@ export default function Header() {
       <div className="max-w-7xl mx-auto flex items-center justify-between px-8 py-6">
 
         {/* LOGO */}
-        <h1 className="text-4xl font-semibold text-[#2F3E2E]">
-          Lilac Template
+        <h1 className="text-3xl font-semibold text-[#2F3E2E]">
+          Butterfly in the wild
         </h1>
 
         {/* NAV */}
