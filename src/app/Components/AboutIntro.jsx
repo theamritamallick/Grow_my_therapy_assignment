@@ -8,14 +8,15 @@ export default function AboutIntro() {
         <div className="space-y-10 text-[#1F2D2B] max-w-xl items-center">
 
           <h2 className="text-5xl font-semibold">
-            Hi, I’m Lilac.
+            Hi, I’m Dr. Maya Reynolds
           </h2>
 
           <p className="text-lg leading-relaxed">
-            I’m committed to providing a safe and supportive environment
-            where we can explore your thoughts, feelings, and behaviors.
-            With empathy and guidance, we’ll work together to navigate
-            the challenges life throws your way.
+            I take a warm, collaborative, and grounded approach to therapy. 
+            Sessions are structured enough to feel supportive, while still leaving space 
+          for reflection and depth. I integrate evidence-based methods such as cognitive-behavioral therapy (CBT), EMDR, 
+          mindfulness-based practices, and body-oriented techniques to help clients understand both the emotional and physiological sides of what they’re experiencing.
+
           </p>
 
           <button className="mt-4 border border-[#254B4F] pl-8 px-8 py-3 text-sm tracking-wide hover:bg-[#254B4F] hover:text-white transition">
@@ -29,14 +30,14 @@ export default function AboutIntro() {
 
           {/* Tall Image */}
           <img
-            src="/images/AboutIntro.jpg"
-            alt="flowers"
+            src="/images/Maya.png"
+            alt="Maya"
             className="rounded-[200px_200px_0_0] w-[420px] h-[560px] object-cover"
           />
 
           {/* Floating Circle Image */}
           <img
-            src="/images/AboutIntro1.jpg"
+            src="/images/butterfly.jpg"
             alt="flowers close"
             className="
               absolute

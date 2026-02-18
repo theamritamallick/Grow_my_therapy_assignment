@@ -1,7 +1,7 @@
 export default function Specialities() {
   const data = [
     {
-      title: "Anxiety & Overwhelm Support",
+      title: "Cognitive-behavioral therapy (CBT)",
       text: "Support for persistent worry, tension, racing thoughts, and feeling mentally on edge.",
       img: "/images/anxiety.jpg"
     },

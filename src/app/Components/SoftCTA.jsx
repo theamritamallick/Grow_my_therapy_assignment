@@ -26,8 +26,8 @@ export default function SoftCTA() {
           </p>
 
           <ul className="space-y-4 list-disc pl-6 text-lg">
-            <li>Feeling disconnected from yourselfs</li>
-            <li>difficulty relaxing or sleeping</li>
+            <li>Always bracing for something to go wrong</li>
+            <li>Difficulty relaxing or sleeping</li>
             <li>Burnout or exhaustion</li>
             <li>Constant worry or overthinking</li>
           </ul>
